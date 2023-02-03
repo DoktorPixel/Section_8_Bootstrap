@@ -1,0 +1,21 @@
+* {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+
+.btn-danger {
+    background-color: orange;
+}
+
+
+.btn-danger:hover {
+    background-color: blue;
+}
+
+.col {
+    background-color: antiquewhite;
+    border: 1px solid black;
+}
